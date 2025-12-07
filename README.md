@@ -1,6 +1,22 @@
-### Hi there 👋, Yusuf Deniz Dogan
-#### Computer Engineering Student
-Computer Engineering student with professional software development experience. Currently focused on mobile game development, architecting a scalable Match-3 title using Unity and C# for my final project. Proficient in software architecture, design patterns, and modern web technologies (React, Next.js).
+### Hi, I'm Yusuf Deniz Dogan.
 
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yusufdenizdogan/)  
+**Final-Year Computer Engineering Student** focusing on Software Architecture and Game Development.
 
+- 🚀 **Background:** Professional Frontend Developer. Experienced in building complex and responsive applications with **React & Next.js**.
+- 🎮 **Current Focus:** Developing scalable mobile games with **Unity (C#)**, focusing on Design Patterns and Data-Driven Design.
+- 🔧 **Core Skills:** OOP, State Management, Mobile Optimization, Clean Code.
+
+---
+
+### Tech Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Game Dev** | Unity, C#, DOTween, Firebase, Unity Services |
+| **Frontend Dev** | TypeScript, React, Next.js, Tailwind CSS, Redux Toolkit, TanStack Query |
+| **Testing** | Jest, Vitest, Playwright |
+| **Tools** | Git, Jira, Postman |
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/yusufdenizdogan/) • yusufdenizdd@gmail.com
